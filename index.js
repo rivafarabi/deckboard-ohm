@@ -69,6 +69,14 @@ class OpenHardwareMonitor extends Extension {
 						]
 					}
 				]
+			},
+			{
+				label: 'Display RAM Stats',
+				value: 'hw-load-ram',
+				icon: 'headphones',
+				mode: 'custom-value',
+				fontIcon: 'fas',
+				color: '#8E44AD'
 			}
 		];
 		this.configs = [];
