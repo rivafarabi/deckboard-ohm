@@ -1,6 +1,6 @@
 name: Open Hardware Monitor
 package: open-hardware-monitor
-version: 1.0.0
+version: 1.0.1
 description: Display hardware status from Open Hardware Monitor on Deckboard button
 author: Riva Farabi
 license: MIT
